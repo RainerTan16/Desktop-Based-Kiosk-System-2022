@@ -27,12 +27,12 @@ Desktop Application
 
 ### Main Menu
 
-![Main Menu](Screenshots/menu.png)
+![Main Menu](Screenshots/Menu.png)
 
 ### Food Ordering
 
 ![Food Ordering](Screenshots/BurgerSide.png)
-![Food Ordering](Screenshots/FriesSide.png)
+![Food Ordering](ScreenshotsFriesSide.png)
 
 
 ### Payment
@@ -41,4 +41,4 @@ Desktop Application
 
 ### Transaction Confirmation
 
-![Transaction Confirmation](ScreenshotsSuccesfully.png)
+![Transaction Confirmation](Screenshots/Succesfully.png)
