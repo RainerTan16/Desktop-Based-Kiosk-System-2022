@@ -14,7 +14,6 @@ A desktop-based self-service kiosk system developed using VB.NET and MySQL.
 ## Technologies Used
 
 - VB.NET
-- MySQL
 - Visual Studio
 
 ## Project Type
