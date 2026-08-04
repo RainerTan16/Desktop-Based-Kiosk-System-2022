@@ -1,44 +1,19 @@
-# Bite Rush Kiosk
-
-A desktop-based self-service kiosk system developed using VB.NET.
-
-## Features
-
-- Food and menu ordering
-- Cash payment
-- Cashless payment
-- Transaction confirmation through an on-screen MessageBox
-- Desktop-based kiosk interface
-
-## Technologies Used
-
-- VB.NET
-- Visual Studio
-
-## Project Type
-
-Desktop Application
-
-## Project Year
-
-2022
-
 ## Screenshots
 
 ### Main Menu
 
-![Main Menu](Screenshots/Menu.png)
+![Main Menu](https://github.com/RainerTan16/Desktop-Based-Kiosk-System-2022/blob/main/Screenshots/Menu.png?raw=true)
 
 ### Food Ordering
 
-![Burger](Screenshots/BurgerSide.png)
+![Burger](https://github.com/RainerTan16/Desktop-Based-Kiosk-System-2022/blob/main/Screenshots/BurgerSide.png?raw=true)
 
-![Fries](Screenshots/FriesSide.png)
+![Fries](https://github.com/RainerTan16/Desktop-Based-Kiosk-System-2022/blob/main/Screenshots/FriesSide.png?raw=true)
 
 ### Payment
 
-![Payment](Screenshots/ModeOfPay.png)
+![Payment](https://github.com/RainerTan16/Desktop-Based-Kiosk-System-2022/blob/main/Screenshots/ModeOfPay.png?raw=true)
 
 ### Transaction Confirmation
 
-![Transaction Confirmation](Screenshots/Succesfully.png)
+![Transaction Confirmation](https://github.com/RainerTan16/Desktop-Based-Kiosk-System-2022/blob/main/Screenshots/Succesfully.png?raw=true)
